@@ -1,0 +1,15 @@
+{
+  "paths": {
+    "base_dir": "G:\\AI_Coding",
+    "models": "G:\\AI_Coding\\models",
+    "projects": "G:\\AI_Coding\\projects",
+    "chroma_db": "G:\\AI_Coding\\data\\chroma_db",
+    "logs": "G:\\AI_Coding\\logs",
+    "swe_agent": "G:\\AI_Coding\\tools\\SWE-agent",
+    "tabby_data": "G:\\AI_Coding\\data\\tabby"
+  },
+  "models": {
+    "primary": "deepseek-coder:33b-instruct-q4_K_M",
+    "secondary": "deepseek-coder:6.7b-instruct"
+  }
+}
